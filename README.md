@@ -1,4 +1,4 @@
-# tucil1stima
+# Tugas Kecil 1 Stima
 Author : Randy Zakya Suchrady , Informatics Engineering ITB 2019
 
 Program mencari nilai angka dari sebuah huruf yang ada pada persoalan cryptharithmetic , penjelasan dan contoh cryptharithmetic : http://www.cryptarithms.com/default.asp?pg=1
