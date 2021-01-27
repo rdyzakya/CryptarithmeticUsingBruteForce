@@ -3,6 +3,7 @@
 #include <string> //string
 #include <fstream> //file open
 #include <chrono> //time
+#include <algorithm> //bersihin kata dari spasi , garis , +
 
 //directory needs
 #include <windows.h>
