@@ -3,8 +3,8 @@ Ini tugas kecil 1 stima
 
 Author : Randy Zakya Suchrady , Informatics Engineering ITB 2019
 Program mencari nilai angka dari sebuah huruf yang ada pada persoalan cryptharithmetic
-Hanya bisa dirun di windows, jangan pindah-pindahkan direktori file executeable dan file txt
-Jika ingin mengcompile, dan didistribusi executablenya untuk pc yang tidak ada mingw compiler, gunakan command 'g++ -static-libgcc -static-libstdc++ tucil.cpp -o main.exe'
+*Hanya bisa dirun di windows, jangan pindah-pindahkan direktori file executeable dan file txt
+*Jika ingin mengcompile, dan didistribusi executablenya untuk pc yang tidak ada mingw compiler, gunakan command 'g++ -static-libgcc -static-libstdc++ tucil.cpp -o main.exe'
 
 
 Cara menggunakan:
